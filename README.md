@@ -5,7 +5,7 @@ Improving my typing speed has been my latest interest, but practicing it takes a
 ## How to use it
 
 1. Open the TypeRacer website
-2. Start the script in a terminal
+2. Run main.py in a terminal
 3. Start a race on TypeRacer and wait for your opponents to join
 4. Select the bounding box of the text you should type
     1. Move the cursor to the top-left corner of the text and press Ctrl
@@ -14,3 +14,5 @@ Improving my typing speed has been my latest interest, but practicing it takes a
 If you succeeded, then the script should automatically start typing for you!
 
 The upper limit of the typing speed can be changed with the DESIRED_WPM variable inside the script.
+
+![test_run_image](https://github.com/Zsombroo/typeracer_ai/blob/main/test.png?raw=true)
