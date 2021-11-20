@@ -1,6 +1,6 @@
 # Project to improve my typing speed on TypeRacer
 
-Improving my typing speed has been my latest interest, but practicing it takes a lot of time and willpower. I've been writing small scripts to automate games and free up my free time spent playing them throughout the past couple of years. TypeRacer is also sort of a game, so why shouldn't I write a script that practices instead of me?
+Improving my typing speed has been my latest interest, but practicing it takes a lot of time and willpower. I've been writing small scripts to automate games and free up my free time spent playing them throughout the past couple of years. TypeRacer is also sort of a game, so why shouldn't I write a script that practices instead of me? My current typing speed is **_too fast_** (according to TypeRacer).
 
 ## How to use it
 
